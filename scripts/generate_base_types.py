@@ -3,7 +3,9 @@
 into Python (IntEnum constants + dataclasses) and a trimmed JSON subset.
 Usage: generate.py <dump.json> <outdir>
 
-Disclaimer: Used as a development aid. LLM generated"""
+Disclaimer: Used as a development aid. LLM generated. This
+is one of the _only_ scenarios where generated code is in the package itself.
+Busywork such as going through a 25mb json blob for slight changes is just cruel"""
 import json, re, sys, os, keyword, collections
 
 SRC = sys.argv[1] if len(sys.argv) > 1 else '/mnt/user-data/uploads/1791753077874_defaults-no-windows.json'
