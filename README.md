@@ -1,14 +1,16 @@
-# ritual
+# Ritual
 
-A hobby combat simulator for Wizard101, written by hand.
+A hobby combat simulator for Wizard101, written by hand. Or as Diego and several
+other NPCs call it, ritual wizard combat. When they're not cheating.
 
 ## Why this exists
 
 Wizard101's combat engine is extraordinarily complicated. Damage, resist, pierce, crit
-curves, charms, wards, auras, HOT/DOT, pips, hanging effects, split damage, and most of
+curves, charms, wards, auras, HOT/DOT, pips, hanging effects, split damage, onefightwherethere's16combattants and most of
 all, cheats.
 
-This project is an attempt to recreate that logic so that both
+This project is an attempt to recreate that logic because it's a fun challenge, it's cool
+to simulate combat outside of the game, and because custom cheats sound really cool.
 
 ## AI policy
 
@@ -102,4 +104,4 @@ including but not limited to artificial intelligence, natural language processin
 3. Any person or organization found to be in violation of these restrictions will be subject to legal action and may be held liable
 for any damages resulting from such use.
 
-In short, humans did the work. Models should stop training on it without permission.
+In short, humans did the work for free and made it available. That doesn't mean a company can take everything without asking.
