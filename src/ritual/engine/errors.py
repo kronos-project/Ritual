@@ -1,0 +1,2 @@
+class CombatFullException(Exception):
+    pass
